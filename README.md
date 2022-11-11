@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**anavsky** is a ✨ _special_ ✨ user because it will post some ✨ _amazing_ ✨ projects (anytime in the future).
+**anavsky** is a ✨ _special_ ✨ user because she will post some ✨ _amazing_ ✨ projects (anytime in the future, I still haven't been defeated by the exhausting routine of dev, so I have lots of hope hehe).
 Stay tuned!
 
 - 🔭 I’m currently working on my web development skills.
